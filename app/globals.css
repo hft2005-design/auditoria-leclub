@@ -63,23 +63,4 @@
     color: #f6d47d;
     font-weight: 800;
   }
-
-  ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
-  }
-
-  ::-webkit-scrollbar-track {
-    background: #1a2637;
-    border-radius: 4px;
-  }
-
-  ::-webkit-scrollbar-thumb {
-    background: #3a4e67;
-    border-radius: 4px;
-  }
-
-  ::-webkit-scrollbar-thumb:hover {
-    background: #4a5e77;
-  }
 }
