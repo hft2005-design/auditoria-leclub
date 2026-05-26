@@ -148,7 +148,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Footer */}
         <div className="mt-4 text-center">
           <p className="text-[#7e93aa] text-[10px]">📊 Datos actualizados · Información basada en fuentes oficiales</p>
         </div>
