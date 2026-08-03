@@ -6,8 +6,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Auditoría Edificio Le Club",
-  description: "Dashboard de auditoría para Edificio Le Club",
+  title: "NeoConsulting | Auditoría en Condominios",
+  description:
+    "Auditoría financiera, legal, administrativa y previsional para comunidades y condominios en Chile, bajo la Ley 21.442.",
 };
 
 export default function RootLayout({
