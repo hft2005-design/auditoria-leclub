@@ -295,7 +295,7 @@ export default function Home() {
             />
             <p className="text-sm font-semibold">NeoConsulting</p>
           </div>
-          <p className="text-[#9aa4b2] text-xs">© 2026 NeoConsulting · Auditoría en Condominios</p>
+          <p className="text-[#9aa4b2] text-xs">© 2026 Neoconsulting SpA · Auditoría en Condominios</p>
         </div>
       </footer>
     </main>

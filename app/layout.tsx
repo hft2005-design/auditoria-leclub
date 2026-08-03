@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "NeoConsulting | Auditoría en Condominios",
   description:
-    "Auditoría financiera, legal, administrativa y previsional para comunidades y condominios en Chile, bajo la Ley 21.442.",
+    "Neoconsulting SpA · Auditoría financiera, legal, administrativa y previsional para comunidades y condominios en Chile, bajo la Ley 21.442.",
 };
 
 export default function RootLayout({
